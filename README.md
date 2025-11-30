@@ -1,16 +1,22 @@
-# 1. create local folder
-mkdir invoice-processing-solution-yourname
-cd invoice-processing-solution-yourname
+# Automated Invoice Processing — Client Solution (Sample)
 
-# 2. create README.md and CLIENT_INVOICE_SOLUTION.md by pasting contents into files
-# (use your editor: nano/vim/code, or echo >> files)
+**Author:** Your Name · **Contact:** your.email@example.com  
+**Purpose:** Short, client-facing solution document demonstrating analysis and an actionable plan to automate invoice processing for a small e-commerce retailer.
 
-# 3. init git and push to new GitHub repo
-git init
-git add README.md CLIENT_INVOICE_SOLUTION.md
-git commit -m "Initial docs: README + client solution"
-# create remote on GitHub first (or use GitHub CLI: gh repo create)
-git remote add origin https://github.com/<your-username>/invoice-processing-solution-yourname.git
-git branch -M main
-git push -u origin main
+---
+
+## What this repo contains
+- `CLIENT_INVOICE_SOLUTION.md` — Detailed client problem statement, proposed solution, implementation plan, sample data flow, and deliverables.
+- `README.md` — (this file) overview and how to view the solution.
+
+## Why this is useful for recruiters
+- Solves a real operational problem (manual invoice handling) with measurable impact: time saved, error reduction, and cost savings.
+- Demonstrates client-facing analysis, technical specification writing, and end-to-end problem framing.
+- Short, clear, and ready to discuss in an interview.
+
+## How to use
+Open `CLIENT_INVOICE_SOLUTION.md` in this repo to read the full problem analysis and the proposed solution.
+
+---
+
 
